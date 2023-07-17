@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @DeepakDhiver
-- 👀 I’m interested in programming
-.
+- 👋 Hi, I’m @DeepakDhiver.
 
 <!---
 DeepakDhiver/DeepakDhiver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
